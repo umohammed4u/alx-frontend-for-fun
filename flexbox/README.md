@@ -8,7 +8,7 @@
 - The difference between the main and cross axes
 - Properties that work on flex elements vs flex container
 - Shorthands for flex
-- How to create a new page with flex in mind
+- How to create a new page with flex in the mind
 
 
 
